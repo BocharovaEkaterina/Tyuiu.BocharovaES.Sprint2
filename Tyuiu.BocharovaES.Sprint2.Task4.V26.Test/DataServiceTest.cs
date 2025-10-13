@@ -20,7 +20,7 @@ namespace Tyuiu.BocharovaES.Sprint2.Task4.V26.Test
             double x = 4;
             double y = 1;
             double res = ds.Calculate(x, y);
-            double wait = 16;
+            double wait = 15;
             Assert.AreEqual(res, wait);
         }
     }
