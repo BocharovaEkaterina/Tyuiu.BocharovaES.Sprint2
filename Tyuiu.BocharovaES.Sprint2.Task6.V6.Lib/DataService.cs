@@ -26,7 +26,7 @@ namespace Tyuiu.BocharovaES.Sprint2.Task6.V6.Lib
                 case 9: rank = "Девятка"; break;
                 case 10: rank = "Десятка"; break;
                 case 11: rank = "Валет"; break;
-                case 12: rank = "Дама"; break;
+                case 12: rank = "дама"; break;
                 case 13: rank = "Король"; break;
                 case 14: rank = "Туз"; break;
                 default: throw new ArgumentException("Такой карты нет!");
